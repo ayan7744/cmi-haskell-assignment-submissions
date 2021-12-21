@@ -1,5 +1,4 @@
 -- Submitted by Ayan Nath 
--- Roll No. BMC202121
 
 import Data.List
 
